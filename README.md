@@ -5,8 +5,8 @@
 
 [TV](https://malikmiran.github.io/tv)
 
-[Google Site](https://sites.google.com/malikmiran)
+[Google Site](https://sites.google.com/view/malikmiran)
 
 [JWM Config](https://github.com/malikmiran/jwm-config)
 
-[Extra](https://github.com/malikmiran/extra)
+[Extra](https://malikmiran.github.io/extra)
